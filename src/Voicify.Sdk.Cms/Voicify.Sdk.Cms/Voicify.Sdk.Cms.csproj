@@ -9,6 +9,7 @@
     <Copyright>Voicify</Copyright>
     <PackageIconUrl>https://wb2.6cb.myftpupload.com/wp-content/uploads/2018/06/cropped-voicify-favicon-270x270.png</PackageIconUrl>
     <PackageProjectUrl>https://voicify.com</PackageProjectUrl>
+    <Description>Api methods for interacting with the Voicify CMS SDK. Generate content, webhook, media, and more as well as query for all sorts of content within your Voicify apps.</Description>
   </PropertyGroup>
 
   <ItemGroup>
