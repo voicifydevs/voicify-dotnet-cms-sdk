@@ -34,3 +34,5 @@ Replace with: using Voicify.Sdk.Core.Models.Model;
 Then do any other replacements or fixes required in order to fix the build
 
 Also be wary of generated tests overriding any that are explicitly setup. You may need to pull the accepted tests that are enabled out of the `Generated` folder.
+
+Also, the generator will generate extra .csproj and .sln files. Be sure to delete those before pushing changes.
